@@ -26,7 +26,11 @@ On Monday you will meet individually with an instructor to review your progress.
 
 You will present your completed product. Presentations will be Science Fair-style, as with Project 1. 
 
-## FAQs
+## Submissions
+
+Please fork the `wdidc5-project3` repo. Make all changes to fork of the repo. Submit them as pull requests to the upstream repo.
+
+## Other 
 
 - Can we work together?
   - The projects must be individual. However, you are more than welcome to seek help and inspiration from your classmates and instructors.
