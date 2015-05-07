@@ -18,7 +18,7 @@ This is your chance to be really creative and create something that's completely
 
 Write a brief overview of your current idea, and 5 corresponding user stories.
 
-Then, create a new repository for your project. This evening's overview and user stories, and all other planning notes, documentation, photos of ERDs, and so on, should be included in this repository. 
+Then, create a new repository for your project. This evening's overview and user stories, and all subsequent planning notes, documentation, photos of ERDs, and any other evidence of your thought process should be included in this repository. 
 
 Finally, post the link to your repository as an issue on the wdidc5-project3 repository:
 
