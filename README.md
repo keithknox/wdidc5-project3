@@ -18,4 +18,4 @@ Make something.
 - I can't think of an idea!
   - To start off with, you might think of a problem you run into on a recurring basis, or a time you've found yourself thinking, "Man, I wish this existed," or, "Man, this is so inefficient." Necessity is the mother of invention. Many of the most popular apps and programs have been invented as a result of someone being ticked off by something that did or didn't exist. Feel free to ask your instructors for help!
 - How will we be presenting these?
-  - Science Fair-style on Thursday of Week 9, like Project 1.
+  - Science Fair-style on Friday of Week 9, like Project 1.
