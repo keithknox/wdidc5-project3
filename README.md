@@ -16,7 +16,13 @@ This is your chance to be really creative and create something that's completely
 
 #### Friday, Week 8
 
-Submit a brief overview of your current idea, and 5 corresponding user stories.
+Write a brief overview of your current idea, and 5 corresponding user stories.
+
+Then, create a new repository for your project. This evening's overview and user stories, and all other planning notes, documentation, photos of ERDs, and so on, should be included in this repository. 
+
+Finally, post the link to your repository as an issue on the wdidc5-project3 repository:
+
+https://github.com/ga-dc/wdidc5-project3
 
 #### Monday, Week 9
 
@@ -25,10 +31,6 @@ On Monday you will meet individually with an instructor to review your progress.
 #### Friday, Week 9
 
 You will present your completed product. Presentations will be Science Fair-style, as with Project 1. 
-
-## Submissions
-
-Please fork the `wdidc5-project3` repo. Make all changes to fork of the repo. Submit them as pull requests to the upstream repo.
 
 ## Other 
 
