@@ -1,0 +1,25 @@
+ideas for a project:
+-------------------
+1. a hotel booking page
+2. a reservation to book a spot at the mall for a photo with santa/easter bunny
+3. grocery delivery
+
+
+went with an idea for an intinerary creator to check out vineyards in the Shenandoah Valley.
+before I had my daughter, my wife and our friends loved to go camping in the Shenandoah Valley.  On the
+way back, we'd stop at a vineyard and hang out for a few more hours.  For my wife's birthday one year, we did
+a small vineyard tour of the region and I thought that it would be handy to be able to create an app that would help organize
+a tour by the Yelp reviews and Google Maps.
+
+
+
+
+user stories:
+-------------
+
+
+1. Users will be able to create an account
+2. Users will be able to view the vineyards on a map and select by proximity
+3. User will be able ot get a user review (from Yelp) and decide whether or not they'd like to visit
+4. User will be able ot save their choice to a list
+5. User will be able to view a copy of their itinerary (later to become an email)
