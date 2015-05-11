@@ -3,6 +3,7 @@ ideas for a project:
 1. a hotel booking page
 2. a reservation to book a spot at the mall for a photo with santa/easter bunny
 3. grocery delivery
+4. email migration (outlook to gmail)
 
 
 went with an idea for an intinerary creator to check out vineyards in the Shenandoah Valley.
@@ -11,7 +12,7 @@ way back, we'd stop at a vineyard and hang out for a few more hours.  For my wif
 a small vineyard tour of the region and I thought that it would be handy to be able to create an app that would help organize
 a tour by the Yelp reviews and Google Maps.
 
-
+i'm still playing with the idea of email migration, but i'm not sure how i'd get that to work with rails.
 
 
 user stories:
